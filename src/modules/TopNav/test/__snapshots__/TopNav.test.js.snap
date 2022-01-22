@@ -1,0 +1,1098 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test cases for: Top Nav Bar component Test to match the snapshot 1`] = `
+<TopNav>
+  <Styled(Stack)
+    data-test-auto="Navbar-test"
+    justifyContent="space-between"
+  >
+    <Stack
+      className="sc-hKFxyN eeejLI"
+      data-test-auto="Navbar-test"
+      justifyContent="space-between"
+    >
+      <Component
+        theme={
+          Object {
+            "breakpoints": Array [
+              "64em",
+              "80em",
+              "90em",
+              "120em",
+            ],
+          }
+        }
+      >
+        <Styled(styled.div)
+          className="sc-hKFxyN eeejLI"
+          data-test-auto="Navbar-test"
+          justifyContent="space-between"
+        >
+          <div
+            className="sc-bdnxRM sc-gtsrHT idzpDh cBCTDO sc-hKFxyN eeejLI"
+            data-test-auto="Navbar-test"
+          >
+            <Box>
+              <Component
+                theme={
+                  Object {
+                    "breakpoints": Array [
+                      "64em",
+                      "80em",
+                      "90em",
+                      "120em",
+                    ],
+                  }
+                }
+              >
+                <styled.div>
+                  <div
+                    className="sc-bdnxRM lmTMKd"
+                  >
+                    <Stack>
+                      <Component
+                        theme={
+                          Object {
+                            "breakpoints": Array [
+                              "64em",
+                              "80em",
+                              "90em",
+                              "120em",
+                            ],
+                          }
+                        }
+                      >
+                        <Styled(styled.div)>
+                          <div
+                            className="sc-bdnxRM sc-gtsrHT lmTMKd cBCTDO"
+                          >
+                            <Box
+                              className="logo item"
+                            >
+                              <Component
+                                theme={
+                                  Object {
+                                    "breakpoints": Array [
+                                      "64em",
+                                      "80em",
+                                      "90em",
+                                      "120em",
+                                    ],
+                                  }
+                                }
+                              >
+                                <styled.div
+                                  className="logo item"
+                                >
+                                  <div
+                                    className="sc-bdnxRM lmTMKd logo item"
+                                  >
+                                    <Image
+                                      src="/images/Home.png"
+                                    >
+                                      <ForwardRef
+                                        className="dentsu-image"
+                                        objectFit="cover"
+                                      >
+                                        <Imagestyles__StyledImage
+                                          className="dentsu-image"
+                                          objectFit="cover"
+                                        >
+                                          <img
+                                            className="Imagestyles__StyledImage-a0fump-0 dAOAHf dentsu-image"
+                                          />
+                                        </Imagestyles__StyledImage>
+                                      </ForwardRef>
+                                    </Image>
+                                  </div>
+                                </styled.div>
+                              </Component>
+                            </Box>
+                            <Box
+                              className="item child"
+                              id="topNavTitleTest"
+                            >
+                              <Component
+                                theme={
+                                  Object {
+                                    "breakpoints": Array [
+                                      "64em",
+                                      "80em",
+                                      "90em",
+                                      "120em",
+                                    ],
+                                  }
+                                }
+                              >
+                                <styled.div
+                                  className="item child"
+                                  id="topNavTitleTest"
+                                >
+                                  <div
+                                    className="sc-bdnxRM lmTMKd item child"
+                                    id="topNavTitleTest"
+                                  >
+                                    <ForwardRef
+                                      style={
+                                        Object {
+                                          "color": "white",
+                                          "fontSize": "18px",
+                                          "fontWeight": "700",
+                                        }
+                                      }
+                                    >
+                                      <Component
+                                        theme={
+                                          Object {
+                                            "mode": "light",
+                                          }
+                                        }
+                                      >
+                                        <Captionstyles__StyledCaption
+                                          as="p"
+                                          className="dentsu-caption"
+                                          style={
+                                            Object {
+                                              "color": "white",
+                                              "fontSize": "18px",
+                                              "fontWeight": "700",
+                                            }
+                                          }
+                                        >
+                                          <p
+                                            className="Captionstyles__StyledCaption-sc-1gktz1a-0 eTswwn dentsu-caption"
+                                            style={
+                                              Object {
+                                                "color": "white",
+                                                "fontSize": "18px",
+                                                "fontWeight": "700",
+                                              }
+                                            }
+                                          >
+                                            TEAMING
+                                          </p>
+                                        </Captionstyles__StyledCaption>
+                                      </Component>
+                                    </ForwardRef>
+                                  </div>
+                                </styled.div>
+                              </Component>
+                            </Box>
+                            <ForwardRef
+                              isFlexChild={true}
+                              orientation="vertical"
+                              style={
+                                Object {
+                                  "backgroundColor": "#4A4A58",
+                                }
+                              }
+                            >
+                              <Component
+                                theme={
+                                  Object {
+                                    "mode": "light",
+                                  }
+                                }
+                              >
+                                <Dividerstyles__VerticalDivider
+                                  aria-orientation="vertical"
+                                  className="dentsu-divider"
+                                  isFlexChild={true}
+                                  style={
+                                    Object {
+                                      "backgroundColor": "#4A4A58",
+                                    }
+                                  }
+                                >
+                                  <hr
+                                    aria-orientation="vertical"
+                                    className="Dividerstyles__Divider-l9v5jy-0 Dividerstyles__VerticalDivider-l9v5jy-2 kSmmTY hFctvz dentsu-divider"
+                                    style={
+                                      Object {
+                                        "backgroundColor": "#4A4A58",
+                                      }
+                                    }
+                                  />
+                                </Dividerstyles__VerticalDivider>
+                              </Component>
+                            </ForwardRef>
+                            <Box
+                              className="item child"
+                              id="subtitleTextTest"
+                            >
+                              <Component
+                                theme={
+                                  Object {
+                                    "breakpoints": Array [
+                                      "64em",
+                                      "80em",
+                                      "90em",
+                                      "120em",
+                                    ],
+                                  }
+                                }
+                              >
+                                <styled.div
+                                  className="item child"
+                                  id="subtitleTextTest"
+                                >
+                                  <div
+                                    className="sc-bdnxRM lmTMKd item child"
+                                    id="subtitleTextTest"
+                                  >
+                                    <ForwardRef
+                                      style={
+                                        Object {
+                                          "color": "white",
+                                        }
+                                      }
+                                    >
+                                      <Component
+                                        theme={
+                                          Object {
+                                            "mode": "light",
+                                          }
+                                        }
+                                      >
+                                        <Captionstyles__StyledCaption
+                                          as="p"
+                                          className="dentsu-caption"
+                                          style={
+                                            Object {
+                                              "color": "white",
+                                            }
+                                          }
+                                        >
+                                          <p
+                                            className="Captionstyles__StyledCaption-sc-1gktz1a-0 eTswwn dentsu-caption"
+                                            style={
+                                              Object {
+                                                "color": "white",
+                                              }
+                                            }
+                                          >
+                                            People search
+                                          </p>
+                                        </Captionstyles__StyledCaption>
+                                      </Component>
+                                    </ForwardRef>
+                                  </div>
+                                </styled.div>
+                              </Component>
+                            </Box>
+                          </div>
+                        </Styled(styled.div)>
+                      </Component>
+                    </Stack>
+                  </div>
+                </styled.div>
+              </Component>
+            </Box>
+            <Box
+              className="item child profile"
+            >
+              <Component
+                theme={
+                  Object {
+                    "breakpoints": Array [
+                      "64em",
+                      "80em",
+                      "90em",
+                      "120em",
+                    ],
+                  }
+                }
+              >
+                <styled.div
+                  className="item child profile"
+                >
+                  <div
+                    className="sc-bdnxRM lmTMKd item child profile"
+                  >
+                    <HeaderSection
+                      data-test-auto="headersectiontestattr"
+                    >
+                      <Stack>
+                        <Component
+                          theme={
+                            Object {
+                              "breakpoints": Array [
+                                "64em",
+                                "80em",
+                                "90em",
+                                "120em",
+                              ],
+                            }
+                          }
+                        >
+                          <Styled(styled.div)>
+                            <div
+                              className="sc-bdnxRM sc-gtsrHT lmTMKd cBCTDO"
+                            >
+                              <Styled(Component)
+                                hasArrow={false}
+                                placement="bottom"
+                              >
+                                <ForwardRef
+                                  className="sc-iCoGMd dofYNd"
+                                  hasArrow={false}
+                                  placement="bottom"
+                                >
+                                  <Popoverstyles__StyledPopover
+                                    animation="shift-away"
+                                    appendTo={
+                                      <body>
+                                        <div
+                                          id="chakra-toast-portal"
+                                        >
+                                          <ul
+                                            id="chakra-toast-manager-top"
+                                            style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column; margin: 0px auto;"
+                                          />
+                                          <ul
+                                            id="chakra-toast-manager-top-left"
+                                            style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column;"
+                                          />
+                                          <ul
+                                            id="chakra-toast-manager-top-right"
+                                            style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column;"
+                                          />
+                                          <ul
+                                            id="chakra-toast-manager-bottom-left"
+                                            style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column;"
+                                          />
+                                          <ul
+                                            id="chakra-toast-manager-bottom"
+                                            style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column; margin: 0px auto;"
+                                          />
+                                          <ul
+                                            id="chakra-toast-manager-bottom-right"
+                                            style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column;"
+                                          />
+                                        </div>
+                                        <div
+                                          class="Toaster"
+                                          id="react-toast"
+                                        >
+                                          <span
+                                            class="Toaster__manager-top"
+                                            style="max-width: 560px; position: fixed; z-index: 5500; pointer-events: none; margin: 0px auto; text-align: center; top: 0px; right: 0px; left: 0px;"
+                                          />
+                                          <span
+                                            class="Toaster__manager-top-left"
+                                            style="max-width: 560px; position: fixed; z-index: 5500; pointer-events: none; top: 0px; left: 0px;"
+                                          />
+                                          <span
+                                            class="Toaster__manager-top-right"
+                                            style="max-width: 560px; position: fixed; z-index: 5500; pointer-events: none; top: 0px; right: 0px;"
+                                          />
+                                          <span
+                                            class="Toaster__manager-bottom-left"
+                                            style="max-width: 560px; position: fixed; z-index: 5500; pointer-events: none; bottom: 0px; left: 0px;"
+                                          />
+                                          <span
+                                            class="Toaster__manager-bottom"
+                                            style="max-width: 560px; position: fixed; z-index: 5500; pointer-events: none; margin: 0px auto; text-align: center; bottom: 0px; right: 0px; left: 0px;"
+                                          />
+                                          <span
+                                            class="Toaster__manager-bottom-right"
+                                            style="max-width: 560px; position: fixed; z-index: 5500; pointer-events: none; bottom: 0px; right: 0px;"
+                                          />
+                                        </div>
+                                      </body>
+                                    }
+                                    arrow={false}
+                                    className="dentsu-popover sc-iCoGMd dofYNd"
+                                    content={
+                                      <Box>
+                                        <Styled(Component)>
+                                          <Box
+                                            className="user"
+                                            pl="128px"
+                                            pt="46px"
+                                          />
+                                          <Box
+                                            mb="24px"
+                                            pl="24px"
+                                          >
+                                            <Avatar
+                                              className="avatar"
+                                            />
+                                          </Box>
+                                          <Box
+                                            className="link"
+                                            pl="128px"
+                                          >
+                                            <Styled(Component)
+                                              className="link"
+                                              id="testLink"
+                                              onClick={[Function]}
+                                              url=""
+                                            >
+                                              View Profile
+                                            </Styled(Component)>
+                                          </Box>
+                                        </Styled(Component)>
+                                      </Box>
+                                    }
+                                    duration={150}
+                                    hideOnClick={true}
+                                    ignoreAttributes={true}
+                                    interactive={true}
+                                    maxWidth={null}
+                                    onCreate={[Function]}
+                                    placement="bottom"
+                                    role="dialog"
+                                    trigger="click focus"
+                                  >
+                                    <ForwardRef(TippyWrapper)
+                                      animation="shift-away"
+                                      appendTo={
+                                        <body>
+                                          <div
+                                            id="chakra-toast-portal"
+                                          >
+                                            <ul
+                                              id="chakra-toast-manager-top"
+                                              style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column; margin: 0px auto;"
+                                            />
+                                            <ul
+                                              id="chakra-toast-manager-top-left"
+                                              style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column;"
+                                            />
+                                            <ul
+                                              id="chakra-toast-manager-top-right"
+                                              style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column;"
+                                            />
+                                            <ul
+                                              id="chakra-toast-manager-bottom-left"
+                                              style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column;"
+                                            />
+                                            <ul
+                                              id="chakra-toast-manager-bottom"
+                                              style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column; margin: 0px auto;"
+                                            />
+                                            <ul
+                                              id="chakra-toast-manager-bottom-right"
+                                              style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column;"
+                                            />
+                                          </div>
+                                          <div
+                                            class="Toaster"
+                                            id="react-toast"
+                                          >
+                                            <span
+                                              class="Toaster__manager-top"
+                                              style="max-width: 560px; position: fixed; z-index: 5500; pointer-events: none; margin: 0px auto; text-align: center; top: 0px; right: 0px; left: 0px;"
+                                            />
+                                            <span
+                                              class="Toaster__manager-top-left"
+                                              style="max-width: 560px; position: fixed; z-index: 5500; pointer-events: none; top: 0px; left: 0px;"
+                                            />
+                                            <span
+                                              class="Toaster__manager-top-right"
+                                              style="max-width: 560px; position: fixed; z-index: 5500; pointer-events: none; top: 0px; right: 0px;"
+                                            />
+                                            <span
+                                              class="Toaster__manager-bottom-left"
+                                              style="max-width: 560px; position: fixed; z-index: 5500; pointer-events: none; bottom: 0px; left: 0px;"
+                                            />
+                                            <span
+                                              class="Toaster__manager-bottom"
+                                              style="max-width: 560px; position: fixed; z-index: 5500; pointer-events: none; margin: 0px auto; text-align: center; bottom: 0px; right: 0px; left: 0px;"
+                                            />
+                                            <span
+                                              class="Toaster__manager-bottom-right"
+                                              style="max-width: 560px; position: fixed; z-index: 5500; pointer-events: none; bottom: 0px; right: 0px;"
+                                            />
+                                          </div>
+                                        </body>
+                                      }
+                                      arrow={false}
+                                      className="Popoverstyles__StyledPopover-k0z406-0 bCRaFO dentsu-popover sc-iCoGMd dofYNd"
+                                      content={
+                                        <Box>
+                                          <Styled(Component)>
+                                            <Box
+                                              className="user"
+                                              pl="128px"
+                                              pt="46px"
+                                            />
+                                            <Box
+                                              mb="24px"
+                                              pl="24px"
+                                            >
+                                              <Avatar
+                                                className="avatar"
+                                              />
+                                            </Box>
+                                            <Box
+                                              className="link"
+                                              pl="128px"
+                                            >
+                                              <Styled(Component)
+                                                className="link"
+                                                id="testLink"
+                                                onClick={[Function]}
+                                                url=""
+                                              >
+                                                View Profile
+                                              </Styled(Component)>
+                                            </Box>
+                                          </Styled(Component)>
+                                        </Box>
+                                      }
+                                      duration={150}
+                                      hideOnClick={true}
+                                      ignoreAttributes={true}
+                                      interactive={true}
+                                      maxWidth={null}
+                                      onCreate={[Function]}
+                                      placement="bottom"
+                                      role="dialog"
+                                      trigger="click focus"
+                                    >
+                                      <Tippy
+                                        animation="shift-away"
+                                        appendTo={
+                                          <body>
+                                            <div
+                                              id="chakra-toast-portal"
+                                            >
+                                              <ul
+                                                id="chakra-toast-manager-top"
+                                                style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column; margin: 0px auto;"
+                                              />
+                                              <ul
+                                                id="chakra-toast-manager-top-left"
+                                                style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column;"
+                                              />
+                                              <ul
+                                                id="chakra-toast-manager-top-right"
+                                                style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column;"
+                                              />
+                                              <ul
+                                                id="chakra-toast-manager-bottom-left"
+                                                style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column;"
+                                              />
+                                              <ul
+                                                id="chakra-toast-manager-bottom"
+                                                style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column; margin: 0px auto;"
+                                              />
+                                              <ul
+                                                id="chakra-toast-manager-bottom-right"
+                                                style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column;"
+                                              />
+                                            </div>
+                                            <div
+                                              class="Toaster"
+                                              id="react-toast"
+                                            >
+                                              <span
+                                                class="Toaster__manager-top"
+                                                style="max-width: 560px; position: fixed; z-index: 5500; pointer-events: none; margin: 0px auto; text-align: center; top: 0px; right: 0px; left: 0px;"
+                                              />
+                                              <span
+                                                class="Toaster__manager-top-left"
+                                                style="max-width: 560px; position: fixed; z-index: 5500; pointer-events: none; top: 0px; left: 0px;"
+                                              />
+                                              <span
+                                                class="Toaster__manager-top-right"
+                                                style="max-width: 560px; position: fixed; z-index: 5500; pointer-events: none; top: 0px; right: 0px;"
+                                              />
+                                              <span
+                                                class="Toaster__manager-bottom-left"
+                                                style="max-width: 560px; position: fixed; z-index: 5500; pointer-events: none; bottom: 0px; left: 0px;"
+                                              />
+                                              <span
+                                                class="Toaster__manager-bottom"
+                                                style="max-width: 560px; position: fixed; z-index: 5500; pointer-events: none; margin: 0px auto; text-align: center; bottom: 0px; right: 0px; left: 0px;"
+                                              />
+                                              <span
+                                                class="Toaster__manager-bottom-right"
+                                                style="max-width: 560px; position: fixed; z-index: 5500; pointer-events: none; bottom: 0px; right: 0px;"
+                                              />
+                                            </div>
+                                          </body>
+                                        }
+                                        arrow={false}
+                                        className="Popoverstyles__StyledPopover-k0z406-0 bCRaFO dentsu-popover sc-iCoGMd dofYNd"
+                                        content={
+                                          <Box>
+                                            <Styled(Component)>
+                                              <Box
+                                                className="user"
+                                                pl="128px"
+                                                pt="46px"
+                                              />
+                                              <Box
+                                                mb="24px"
+                                                pl="24px"
+                                              >
+                                                <Avatar
+                                                  className="avatar"
+                                                />
+                                              </Box>
+                                              <Box
+                                                className="link"
+                                                pl="128px"
+                                              >
+                                                <Styled(Component)
+                                                  className="link"
+                                                  id="testLink"
+                                                  onClick={[Function]}
+                                                  url=""
+                                                >
+                                                  View Profile
+                                                </Styled(Component)>
+                                              </Box>
+                                            </Styled(Component)>
+                                          </Box>
+                                        }
+                                        duration={150}
+                                        hideOnClick={true}
+                                        ignoreAttributes={true}
+                                        interactive={true}
+                                        maxWidth={null}
+                                        onCreate={[Function]}
+                                        placement="bottom"
+                                        role="dialog"
+                                        trigger="click focus"
+                                      >
+                                        <ForwardRef>
+                                          <Popoverstyles__StyledPopoverTrigger>
+                                            <div
+                                              className="Popoverstyles__StyledPopoverTrigger-k0z406-2 fMBdql"
+                                            >
+                                              <Stack
+                                                id="testAvatar"
+                                                onClick={[Function]}
+                                              >
+                                                <Component
+                                                  theme={
+                                                    Object {
+                                                      "breakpoints": Array [
+                                                        "64em",
+                                                        "80em",
+                                                        "90em",
+                                                        "120em",
+                                                      ],
+                                                    }
+                                                  }
+                                                >
+                                                  <Styled(styled.div)
+                                                    id="testAvatar"
+                                                    onClick={[Function]}
+                                                  >
+                                                    <div
+                                                      className="sc-bdnxRM sc-gtsrHT lmTMKd cBCTDO"
+                                                      id="testAvatar"
+                                                      onClick={[Function]}
+                                                    >
+                                                      <Styled(Avatar)>
+                                                        <Avatar
+                                                          className="sc-gKAaRy cwPnYE"
+                                                        >
+                                                          <Component
+                                                            theme={
+                                                              Object {
+                                                                "mode": undefined,
+                                                                "size": "medium",
+                                                              }
+                                                            }
+                                                          >
+                                                            <Avatarstyles__StyledAvatarContainer>
+                                                              <div
+                                                                className="Avatarstyles__StyledAvatarContainer-sc-1yhru5w-0 fPoPaz"
+                                                              >
+                                                                <Avatarstyles__StyledAvatar
+                                                                  className="dentsu-avatar dentsu-avatar--border sc-gKAaRy cwPnYE"
+                                                                >
+                                                                  <div
+                                                                    className="Avatarstyles__StyledAvatar-sc-1yhru5w-1 isuAvf dentsu-avatar dentsu-avatar--border sc-gKAaRy cwPnYE"
+                                                                  >
+                                                                    <DefaultAvatar>
+                                                                      <div
+                                                                        style={
+                                                                          Object {
+                                                                            "height": "100%",
+                                                                            "width": "100%",
+                                                                          }
+                                                                        }
+                                                                      >
+                                                                        <svg
+                                                                          fill="#fff"
+                                                                          role="img"
+                                                                          viewBox="0 0 128 128"
+                                                                        >
+                                                                          <g>
+                                                                            <path
+                                                                              d="M103,102.1388 C93.094,111.92 79.3504,118 64.1638,118 C48.8056,118 34.9294,111.768 25,101.7892 L25,95.2 C25,86.8096 31.981,80 40.6,80 L87.4,80 C96.019,80 103,86.8096 103,95.2 L103,102.1388 Z"
+                                                                            />
+                                                                            <path
+                                                                              d="M63.9961647,24 C51.2938136,24 41,34.2938136 41,46.9961647 C41,59.7061864 51.2938136,70 63.9961647,70 C76.6985159,70 87,59.7061864 87,46.9961647 C87,34.2938136 76.6985159,24 63.9961647,24"
+                                                                            />
+                                                                          </g>
+                                                                        </svg>
+                                                                      </div>
+                                                                    </DefaultAvatar>
+                                                                  </div>
+                                                                </Avatarstyles__StyledAvatar>
+                                                              </div>
+                                                            </Avatarstyles__StyledAvatarContainer>
+                                                          </Component>
+                                                        </Avatar>
+                                                      </Styled(Avatar)>
+                                                      <Styled(Component)
+                                                        icon="chevron-down"
+                                                        id="testArrowIcon"
+                                                        size={16}
+                                                      >
+                                                        <ForwardRef
+                                                          className="sc-fujyAs dkwRiG"
+                                                          icon="chevron-down"
+                                                          id="testArrowIcon"
+                                                          size={16}
+                                                        >
+                                                          <Iconstyles__StyledIcon
+                                                            className="dentsu-icon sc-fujyAs dkwRiG"
+                                                            color="currentColor"
+                                                            icon="chevron-down"
+                                                            iconSize={16}
+                                                            id="testArrowIcon"
+                                                          >
+                                                            <Blueprint3.Icon
+                                                              className="Iconstyles__StyledIcon-kxskov-0 bvHWoY dentsu-icon sc-fujyAs dkwRiG"
+                                                              color="currentColor"
+                                                              icon="chevron-down"
+                                                              iconSize={16}
+                                                              id="testArrowIcon"
+                                                            >
+                                                              <span
+                                                                className="bp3-icon bp3-icon-chevron-down Iconstyles__StyledIcon-kxskov-0 bvHWoY dentsu-icon sc-fujyAs dkwRiG"
+                                                                icon="chevron-down"
+                                                                id="testArrowIcon"
+                                                              >
+                                                                <svg
+                                                                  data-icon="chevron-down"
+                                                                  fill="currentColor"
+                                                                  height={16}
+                                                                  viewBox="0 0 16 16"
+                                                                  width={16}
+                                                                >
+                                                                  <desc>
+                                                                    chevron-down
+                                                                  </desc>
+                                                                  <path
+                                                                    d="M12 5c-.28 0-.53.11-.71.29L8 8.59l-3.29-3.3a1.003 1.003 0 00-1.42 1.42l4 4c.18.18.43.29.71.29s.53-.11.71-.29l4-4A1.003 1.003 0 0012 5z"
+                                                                    fillRule="evenodd"
+                                                                    key="0"
+                                                                  />
+                                                                </svg>
+                                                              </span>
+                                                            </Blueprint3.Icon>
+                                                          </Iconstyles__StyledIcon>
+                                                        </ForwardRef>
+                                                      </Styled(Component)>
+                                                    </div>
+                                                  </Styled(styled.div)>
+                                                </Component>
+                                              </Stack>
+                                            </div>
+                                          </Popoverstyles__StyledPopoverTrigger>
+                                        </ForwardRef>
+                                        <Portal
+                                          containerInfo={
+                                            <div>
+                                              <div
+                                                class="sc-bdnxRM lmTMKd"
+                                              >
+                                                <div
+                                                  class="TextContainerstyles__StyledTextContainer-sc-1udf2gl-0 bFpuyV dentsu-text-container sc-eCApnc jiLFuc"
+                                                >
+                                                  <div
+                                                    class="sc-bdnxRM gtLWXg user"
+                                                  />
+                                                  <div
+                                                    class="sc-bdnxRM efVIoq"
+                                                  >
+                                                    <div
+                                                      class="Avatarstyles__StyledAvatarContainer-sc-1yhru5w-0 fPoPaz"
+                                                    >
+                                                      <div
+                                                        class="Avatarstyles__StyledAvatar-sc-1yhru5w-1 isuAvf dentsu-avatar dentsu-avatar--border avatar"
+                                                      >
+                                                        <div
+                                                          style="width: 100%; height: 100%;"
+                                                        >
+                                                          <svg
+                                                            fill="#fff"
+                                                            role="img"
+                                                            viewBox="0 0 128 128"
+                                                          >
+                                                            <g>
+                                                              <path
+                                                                d="M103,102.1388 C93.094,111.92 79.3504,118 64.1638,118 C48.8056,118 34.9294,111.768 25,101.7892 L25,95.2 C25,86.8096 31.981,80 40.6,80 L87.4,80 C96.019,80 103,86.8096 103,95.2 L103,102.1388 Z"
+                                                              />
+                                                              <path
+                                                                d="M63.9961647,24 C51.2938136,24 41,34.2938136 41,46.9961647 C41,59.7061864 51.2938136,70 63.9961647,70 C76.6985159,70 87,59.7061864 87,46.9961647 C87,34.2938136 76.6985159,24 63.9961647,24"
+                                                              />
+                                                            </g>
+                                                          </svg>
+                                                        </div>
+                                                      </div>
+                                                    </div>
+                                                  </div>
+                                                  <div
+                                                    class="sc-bdnxRM ejEswo link"
+                                                  >
+                                                    <a
+                                                      aria-disabled="false"
+                                                      class="Linkstyles__StyledLink-sc-1yd6url-0 ewkFRI dentsu-link sc-jSFjdj emkIGk link"
+                                                      href=""
+                                                    >
+                                                      <span
+                                                        class="dentsu-link__label"
+                                                      >
+                                                        View Profile
+                                                      </span>
+                                                    </a>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          }
+                                        >
+                                          <Box>
+                                            <Component
+                                              theme={
+                                                Object {
+                                                  "breakpoints": Array [
+                                                    "64em",
+                                                    "80em",
+                                                    "90em",
+                                                    "120em",
+                                                  ],
+                                                }
+                                              }
+                                            >
+                                              <styled.div>
+                                                <div
+                                                  className="sc-bdnxRM lmTMKd"
+                                                >
+                                                  <Styled(Component)>
+                                                    <ForwardRef
+                                                      className="sc-eCApnc jiLFuc"
+                                                    >
+                                                      <TextContainerstyles__StyledTextContainer
+                                                        className="dentsu-text-container sc-eCApnc jiLFuc"
+                                                      >
+                                                        <div
+                                                          className="TextContainerstyles__StyledTextContainer-sc-1udf2gl-0 bFpuyV dentsu-text-container sc-eCApnc jiLFuc"
+                                                        >
+                                                          <Box
+                                                            className="user"
+                                                            pl="128px"
+                                                            pt="46px"
+                                                          >
+                                                            <Component
+                                                              theme={
+                                                                Object {
+                                                                  "breakpoints": Array [
+                                                                    "64em",
+                                                                    "80em",
+                                                                    "90em",
+                                                                    "120em",
+                                                                  ],
+                                                                }
+                                                              }
+                                                            >
+                                                              <styled.div
+                                                                className="user"
+                                                                pl="128px"
+                                                                pt="46px"
+                                                              >
+                                                                <div
+                                                                  className="sc-bdnxRM gtLWXg user"
+                                                                />
+                                                              </styled.div>
+                                                            </Component>
+                                                          </Box>
+                                                          <Box
+                                                            mb="24px"
+                                                            pl="24px"
+                                                          >
+                                                            <Component
+                                                              theme={
+                                                                Object {
+                                                                  "breakpoints": Array [
+                                                                    "64em",
+                                                                    "80em",
+                                                                    "90em",
+                                                                    "120em",
+                                                                  ],
+                                                                }
+                                                              }
+                                                            >
+                                                              <styled.div
+                                                                mb="24px"
+                                                                pl="24px"
+                                                              >
+                                                                <div
+                                                                  className="sc-bdnxRM efVIoq"
+                                                                >
+                                                                  <Avatar
+                                                                    className="avatar"
+                                                                  >
+                                                                    <Component
+                                                                      theme={
+                                                                        Object {
+                                                                          "mode": undefined,
+                                                                          "size": "medium",
+                                                                        }
+                                                                      }
+                                                                    >
+                                                                      <Avatarstyles__StyledAvatarContainer>
+                                                                        <div
+                                                                          className="Avatarstyles__StyledAvatarContainer-sc-1yhru5w-0 fPoPaz"
+                                                                        >
+                                                                          <Avatarstyles__StyledAvatar
+                                                                            className="dentsu-avatar dentsu-avatar--border avatar"
+                                                                          >
+                                                                            <div
+                                                                              className="Avatarstyles__StyledAvatar-sc-1yhru5w-1 isuAvf dentsu-avatar dentsu-avatar--border avatar"
+                                                                            >
+                                                                              <DefaultAvatar>
+                                                                                <div
+                                                                                  style={
+                                                                                    Object {
+                                                                                      "height": "100%",
+                                                                                      "width": "100%",
+                                                                                    }
+                                                                                  }
+                                                                                >
+                                                                                  <svg
+                                                                                    fill="#fff"
+                                                                                    role="img"
+                                                                                    viewBox="0 0 128 128"
+                                                                                  >
+                                                                                    <g>
+                                                                                      <path
+                                                                                        d="M103,102.1388 C93.094,111.92 79.3504,118 64.1638,118 C48.8056,118 34.9294,111.768 25,101.7892 L25,95.2 C25,86.8096 31.981,80 40.6,80 L87.4,80 C96.019,80 103,86.8096 103,95.2 L103,102.1388 Z"
+                                                                                      />
+                                                                                      <path
+                                                                                        d="M63.9961647,24 C51.2938136,24 41,34.2938136 41,46.9961647 C41,59.7061864 51.2938136,70 63.9961647,70 C76.6985159,70 87,59.7061864 87,46.9961647 C87,34.2938136 76.6985159,24 63.9961647,24"
+                                                                                      />
+                                                                                    </g>
+                                                                                  </svg>
+                                                                                </div>
+                                                                              </DefaultAvatar>
+                                                                            </div>
+                                                                          </Avatarstyles__StyledAvatar>
+                                                                        </div>
+                                                                      </Avatarstyles__StyledAvatarContainer>
+                                                                    </Component>
+                                                                  </Avatar>
+                                                                </div>
+                                                              </styled.div>
+                                                            </Component>
+                                                          </Box>
+                                                          <Box
+                                                            className="link"
+                                                            pl="128px"
+                                                          >
+                                                            <Component
+                                                              theme={
+                                                                Object {
+                                                                  "breakpoints": Array [
+                                                                    "64em",
+                                                                    "80em",
+                                                                    "90em",
+                                                                    "120em",
+                                                                  ],
+                                                                }
+                                                              }
+                                                            >
+                                                              <styled.div
+                                                                className="link"
+                                                                pl="128px"
+                                                              >
+                                                                <div
+                                                                  className="sc-bdnxRM ejEswo link"
+                                                                >
+                                                                  <Styled(Component)
+                                                                    className="link"
+                                                                    id="testLink"
+                                                                    onClick={[Function]}
+                                                                    url=""
+                                                                  >
+                                                                    <ForwardRef
+                                                                      className="sc-jSFjdj emkIGk link"
+                                                                      id="testLink"
+                                                                      onClick={[Function]}
+                                                                      url=""
+                                                                    >
+                                                                      <Component
+                                                                        theme={
+                                                                          Object {
+                                                                            "mode": "light",
+                                                                            "size": "small",
+                                                                          }
+                                                                        }
+                                                                      >
+                                                                        <Linkstyles__StyledLink
+                                                                          aria-disabled={false}
+                                                                          className="dentsu-link sc-jSFjdj emkIGk link"
+                                                                          href=""
+                                                                          onClick={[Function]}
+                                                                        >
+                                                                          <a
+                                                                            aria-disabled={false}
+                                                                            className="Linkstyles__StyledLink-sc-1yd6url-0 ewkFRI dentsu-link sc-jSFjdj emkIGk link"
+                                                                            href=""
+                                                                            onClick={[Function]}
+                                                                          >
+                                                                            <span
+                                                                              className="dentsu-link__label"
+                                                                            >
+                                                                              View Profile
+                                                                            </span>
+                                                                          </a>
+                                                                        </Linkstyles__StyledLink>
+                                                                      </Component>
+                                                                    </ForwardRef>
+                                                                  </Styled(Component)>
+                                                                </div>
+                                                              </styled.div>
+                                                            </Component>
+                                                          </Box>
+                                                        </div>
+                                                      </TextContainerstyles__StyledTextContainer>
+                                                    </ForwardRef>
+                                                  </Styled(Component)>
+                                                </div>
+                                              </styled.div>
+                                            </Component>
+                                          </Box>
+                                        </Portal>
+                                      </Tippy>
+                                    </ForwardRef(TippyWrapper)>
+                                  </Popoverstyles__StyledPopover>
+                                </ForwardRef>
+                              </Styled(Component)>
+                            </div>
+                          </Styled(styled.div)>
+                        </Component>
+                      </Stack>
+                    </HeaderSection>
+                  </div>
+                </styled.div>
+              </Component>
+            </Box>
+          </div>
+        </Styled(styled.div)>
+      </Component>
+    </Stack>
+  </Styled(Stack)>
+</TopNav>
+`;
